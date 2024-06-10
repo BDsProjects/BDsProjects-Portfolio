@@ -68,6 +68,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/billydolan"
+    - label: "GrabCAD"
+      icon: "fab fa-fw fa-grabcad"
+      url: "https://grabcad.com/billy.dolan-2"
 
 footer:
   links:
@@ -77,6 +80,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/billydolan"
+    - label: "GrabCAD"
+      icon: "fab fa-fw fa-grabcad"
+      url: "https://grabcad.com/billy.dolan-2"
 
 defaults:
   # _posts
