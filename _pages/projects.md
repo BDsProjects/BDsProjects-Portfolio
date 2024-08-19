@@ -7,6 +7,6 @@ This page is a directory to various projects I have participated in, my ongoing 
 
 ## My Projects
 
-### [Project 1: Project Name](./_projects/project-JetOp.md)
-- **Description**: A brief description of Project 1.
-- **Technologies Used**: Technology 1, Technology 2
+### [Project 1: JetOp](./_projects/project-JetOp.md)
+- **Description**: An app built to replace the Jetshow and Jettronic apps used for the AFRL APOP competition at UD. This is a replacement app for JetCat turbine operation. 
+- **Technologies Used**: Visual Studio Code & Community, Python, HTML, CSS, C++
