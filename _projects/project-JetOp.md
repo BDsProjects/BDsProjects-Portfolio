@@ -4,6 +4,7 @@ title: "JetOp"
 date: 2024-08-18
 description: "A short description of the project."
 image: /path/to/image.jpg
+permalink: /projects/project-JetOp.md
 ---
 
 ## Project Overview
