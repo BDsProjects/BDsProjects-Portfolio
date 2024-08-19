@@ -1,6 +1,8 @@
 ---
 layout: project
 title: "JetOp"
+categories:
+  - Projects
 date: 2024-08-18
 description: "A short description of the project."
 image: /path/to/image.jpg
