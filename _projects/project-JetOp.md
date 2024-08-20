@@ -15,5 +15,5 @@ During the Air Force Research Labs Aerospace Propulsion Out Reach Program senior
 I completed the backend and successfully tested for functionality with it. This was done by testing the button commands for the fuel pumps, health checks, and additional commands. Operational testing was also conducted for the RPM increases, start up and shutdown functionality, etc. 
 
 I however struggled with the development of the UI. Python is not the best tool to use for development of complex UI. I underestimated the difficulty of the UI development and began testing with differnt Python frameworks, HTML, C++, and will be looking into using GTK4. PyQt5 provided a good basis and was quick, but continued issues with the graphics solutions avaliable has shown that a change of frameworks may be necessary. 
-##
+
 
