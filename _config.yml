@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+baseurl: "/PortfolioPageV3"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,12 +59,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Billy Dolan"
+  name   : "Billy"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "M.S Aerospace Engineering student and current Research Engineer for Spectral Energies, LLC."
+  bio    : "Graduate Aerospace Engineering student and current Research Engineer for Spectral Energies, LLC."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-LinkedIn" # Need to see if it grabs the LinkedIn icon
+      icon: "fab fa-fw fa-linkedin" # Need to see if it grabs the LinkedIn icon
       url: "https://www.linkedin.com/in/billy1dolan/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -75,7 +76,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-LinkedIn" # Need to see if it grabs the LinkedIn icon
+      icon: "fas fa-fw fa-linkedin" # Need to see if it grabs the LinkedIn icon
       url: "https://www.linkedin.com/in/billy1dolan/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
