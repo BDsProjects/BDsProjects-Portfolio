@@ -5,7 +5,7 @@ categories:
   - Projects
 date: 2024-08-18
 description: "A short description of the project."
-image: /path/to/image.jpg
+#image: /path/to/image.jpg
 permalink: /projects/project-JetOp
 ---
 
