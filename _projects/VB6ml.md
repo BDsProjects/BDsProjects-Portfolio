@@ -7,8 +7,6 @@ date: 2024-XX-XX
 description: "A short description of the project."
 # image: /path/to/image.jpg
 permalink: _pages\_projects\VB6ml
-
-
 ---
 
 ## Project Overview

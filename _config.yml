@@ -34,6 +34,12 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 include:
   - _pages
 
@@ -104,6 +110,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projects
+  - scope:
+      path: "_projects"
+      type: projects    # Note: You'll also need to declare this collection
+    values:
+      layout: single    # Or whatever layout you want to use for projects
+      author_profile: true
+      share: true
+      related: true
 
 category_archive:
   type: liquid
