@@ -3,7 +3,7 @@ layout: project
 title: "VB6ml"
 categories:
   - Projects
-date: 2024-XX-XX
+date: 2024-01-01
 description: "A short description of the project."
 # image: /path/to/image.jpg
 permalink: _pages\_projects\VB6ml
