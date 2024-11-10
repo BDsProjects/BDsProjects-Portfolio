@@ -66,7 +66,7 @@ plugins:
 
 author:
   name   : "Billy"
-  avatar : "/assets/images/IMG_4072.jpg"
+  avatar : "/assets/images/profile-pic.jpg"
   bio    : "Graduate Aerospace Engineering student and current Research Engineer for Spectral Energies, LLC."
   links:
     - label: "LinkedIn"
