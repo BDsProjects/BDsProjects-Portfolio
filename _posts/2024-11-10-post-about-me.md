@@ -1,6 +1,6 @@
 ---
-title: "About Me
-last_modified_at: 2024-11-10
+title: "About Me"
+last_modified_at: 2024-11-10T11:43:00-05:00
 categories:
   - Blog
 tags:
