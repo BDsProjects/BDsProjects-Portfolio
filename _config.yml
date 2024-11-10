@@ -23,7 +23,7 @@ baseurl: "/BDsProjects-Portfolio"
 url: "https://bdsprojects.github.io"
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark # Changed to the dark theme. 
 search: true
 
 # Build settings
