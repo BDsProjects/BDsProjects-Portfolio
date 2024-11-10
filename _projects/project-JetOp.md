@@ -1,8 +1,15 @@
 ---
-layout: project
+layout: single
 title: "JetOp"
-date: 2024-08-18n of the project."
-permalink: /projects/project-JetOp
+date: 2024-08-18
+permalink: /projects/jetop/
+header:
+  teaser: /assets/images/projects/jetop-thumb.jpg    # Thumbnail in grid
+  overlay_image: /assets/images/projects/jetop-banner.jpg  # Optional banner image
+  overlay_filter: 0.5  # Darken the banner image
+  actions:
+    - label: "View on GitHub"
+      url: "your-github-repo-url"
 
 
 # Project-specific metadata
