@@ -13,31 +13,31 @@ header:
 
 
 # Project-specific metadata
-project_type: Software Development
-status: In Progress  # or In Progress, Maintenance, etc.
-technologies:
-  - Python
-  - PyQt5
-  - JetCat V12.0 ECU
-  - Arduino
-  - C++
-  - ImGui
-  - Visual Studio Community 2022
-  - Visual Studio Code
-timeline:
-  start_date: 2024-05-30
-  end_date: 2025-03-05
+# project_type: Software Development
+# status: In Progress  # or In Progress, Maintenance, etc.
+# technologies:
+#   - Python
+#   - PyQt5
+#   - JetCat V12.0 ECU
+#   - Arduino
+#   - C++
+#   - ImGui
+#   - Visual Studio Community 2022
+#   - Visual Studio Code
+# timeline:
+#   start_date: 2024-05-30
+#   end_date: 2025-03-05
 
-  # Optional sidebar info
-sidebar:
-  - title: "Role"
-    text: "Lead Developer"
-  - title: "Technologies"
-    text: "Python, PyQt5, JetCat V12.0 ECU,  C++,  ImGui"
-  - title: "Duration"
-    text: "10 months"
-  - title: "Status"
-    text: "Ongoing"
+#   # Optional sidebar info
+# sidebar:
+#   - title: "Role"
+#     text: "Lead Developer"
+#   - title: "Technologies"
+#     text: "Python, PyQt5, JetCat V12.0 ECU,  C++,  ImGui"
+#   - title: "Duration"
+#     text: "10 months"
+#   - title: "Status"
+#     text: "Ongoing"
 ---
 
 ## Project Overview
