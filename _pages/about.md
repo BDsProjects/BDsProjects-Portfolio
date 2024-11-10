@@ -7,5 +7,5 @@ I graduated from the University of Dayton with a Bachelor's of Science in Mechan
 
 "https://udayton.edu/engineering/graduate/step.php"
 
-During my undergraduate degree, I completed four full time internships/Co-ops as a manufacturing intern, Project Engineering Intern, Product Investigations Co-op, and Manufacturing Engineering Co-op. I was also a Mechanical Engineering intern, part-time during my first senior semester in Fall 2023, and started part-time as a Research Engineer at the end of that semester. I continued the role part-time through my Spring 2024 final semester, and now work full time as a Research Engineer before the start of full time classes in Fall 2024. 
+During my undergraduate degree, I completed four full time internships/Co-ops as a manufacturing intern, Project Engineering Intern, Product Investigations Co-op, and Manufacturing Engineering Co-op. I was also a Mechanical Engineering intern, part-time during my first senior semester in Fall 2023, and started part-time as a Research Engineer at the end of that semester. I continued the role part-time through my Spring 2024 final semester, and now work part-to-full time as a Research Engineer during my full time classes in Fall 2024.
 
