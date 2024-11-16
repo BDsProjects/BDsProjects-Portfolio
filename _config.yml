@@ -120,6 +120,15 @@ defaults:
       author_profile: true
       share: true
       related: true
+  # _resume
+  - scope:
+      path: "_resume"
+      type: resume    # Note: You'll also need to declare this collection
+    values:
+      layout: single    # Or whatever layout you want to use for projects
+      author_profile: true
+      share: true
+      related: true
 
 category_archive:
   type: liquid
