@@ -1,7 +1,4 @@
----
-title: Resume
-permalink: /resume/
-layout: single
+--
 ---
 
 # Billy Dolan
@@ -75,7 +72,3 @@ University of Dayton
 
 - Designed a rapidly deploying thrust reverser with a minimum of 40% thrust reversed. Optimizing thrust to weight ratio of the thruster and redesigning the testing setup for better repeatability.   
 - Responsible for CFD, compressible flow calculations, experimentation directions and documentation, data integrity measures, cycle modeling, turbine component 3D modeling, and turbine-computer interfacing. 
-
-
-## 📥 Download My Resume
-[Download](/BDsProjects-Portfolio/assets/files/resume.pdf){: .btn .btn--primary}
