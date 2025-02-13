@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Air Force Research Laboratory's Aerospace Propulsion Oureach Program Competition"
+title: "Air Force Research Laboratory's Aerospace Propulsion Outreach Program Competition"
 date: 2024-08-18n of the project."
 permalink: /projects/project-apop
 ---
@@ -13,3 +13,6 @@ I had many diverse roles within the project but was primarily responsible for ma
 I am currently reverse engineering and redesigning of the turbine software to provide a better and more detailed interface. This will contain more features than the standard app, while also being built in modern languages, Python and Arduino. This will be completed by the next APOP project, starting at the end of August 2024. I am also working on data-integrity and handoff measures for the future competition teams at UD.
 
 ## Technical Details 
+I was responsible and shared responsibility for many different components of this project including but not limited to, turbine operation, electronics configuration, software versus basic controller use for turbine control, cycle analysis, thrust reverser performance calculations, Computational Fluid Dynamics (CFD) of thrust reverser and stock nozzle models, technical documentation, and data integrity measures. 
+
+    Due to data loss from prior years, we started nearly from scratch with turbine operation. There is essentially no documentation on the JetCat software, so I set out to get it working, while also figuring out standard operation with their provided controllers. 
