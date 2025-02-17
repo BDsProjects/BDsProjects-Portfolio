@@ -17,17 +17,11 @@ layout: single
 
 ## Education
 
-**M.S. in Aerospace Engineering**
+**M.S. in Aerospace Engineering - University of Dayton, Dayton, Ohio**
   : **Aug 2022 - Dec 2025**
 
-University of Dayton
-  : Dayton, OH
-
-**B.S. in Mechanical Engineering**
+**B.S. in Mechanical Engineering - University of Dayton, Dayton, Ohio**
   : **Aug 2020 - May 2024**
-
-University of Dayton
-  : Dayton, OH
 
 ## Experience
 
