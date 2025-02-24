@@ -8,8 +8,6 @@ header:
   overlay_image: /assets/images/projects/jetop-banner.jpg  # Optional banner image
   overlay_filter: 0.5  # Darken the banner image
   actions:
-    - label: "View on GitHub"
-      url: "your-github-repo-url"
 
 
 # Project-specific metadata
