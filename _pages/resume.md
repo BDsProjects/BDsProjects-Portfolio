@@ -18,7 +18,7 @@ layout: single
 ## Education
 
 **M.S. in Aerospace Engineering - University of Dayton, Dayton, Ohio**
-  : **Aug 2022 - Dec 2025**
+  : **Aug 2022 - Aug 2025**
 
 **B.S. in Mechanical Engineering - University of Dayton, Dayton, Ohio**
   : **Aug 2020 - May 2024**
@@ -27,7 +27,7 @@ layout: single
 
 **Research Engineer**
   : **Spectral Energies, LLC**
-  : **Nov 2023 - Present**
+  : **Nov 2023 - Mar 2025**
 
 - Research and development of experimental propulsion methods.
 

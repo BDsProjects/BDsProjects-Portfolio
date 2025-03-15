@@ -20,7 +20,7 @@ You can read more about the program on the [STEP Cohort website](https://udayton
          <li>Microsoft Power BI - Intermediate</li>
          <li>Power Automate ~ Intermediate</li>
          <li>SOLIDWORKS - Advanced</li>
-         <li>o	Cura & OrcaSlicer/Bambu Studio - Intermediate</li>
+         <li>Cura & OrcaSlicer/Bambu Studio - Intermediate</li>
          <li>OnShape - Intermediate</li>
          <li>Abaqus CAE - Beginner</li>
          <li>MATLAB & Simulink - Advanced </li>
