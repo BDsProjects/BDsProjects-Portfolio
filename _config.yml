@@ -71,7 +71,7 @@ plugins:
 author:
   name   : "Billy"
   avatar : "/assets/images/profile-pic.jpg"
-  bio    : "Graduate Aerospace Engineering student and current Research Engineer for Spectral Energies, LLC."
+  bio    : "Graduate Aerospace Engineering student and current Research Collaborator with Space Park Leicester."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin" # Need to see if it grabs the LinkedIn icon
