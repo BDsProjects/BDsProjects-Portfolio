@@ -27,5 +27,10 @@ For the calculations, I completed the non-ideal cycle analysis for the P100-RX u
 I performed CFD analysis on the thrust reverser designs, along with the stock nozzles for performance comparisons. I used SolidWorks as it was the tool I had experience with, and the time needed to run the simulations. These analyses were used to assist in determining which design(s) would be best to move into the manufacturing and testing stage with. The manual claculations were used as the basis and in the end, we chose a pneumatically actuated clamshell design. In the future I would like to further develop my skills with CFD in Ansys, or Converge CFD. Using SolidWorks, I also created some models of the P100-RX components. Included below is a picture of the secondary turbine shaft and nozzle. 
 ![alt text](assets\images\SecondaryShaft.png "Secondary Shaft")
 
+loading nozzle image test
+
+![alt text](./assets/images/nozzle.png)
+
+
 ## Non-Technical Details
 As I previously mentioned, we completed design reviews for the typical stages in the product realization process. This included meetings covering the Initial Design Ideas and Constraints, Preliminary and Detailed Design Review (PDR), and a Final Design Review and Production, all conducted with UD professors, and AFRL/AFLCMC/AFRL-RQT mentors. 
