@@ -29,7 +29,7 @@ I performed CFD analysis on the thrust reverser designs, along with the stock no
 
 loading nozzle image test
 
-![alt text](./assets/images/nozzle.png)
+![alt text](/assets/images/nozzle.png)
 
 
 ## Non-Technical Details
