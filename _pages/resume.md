@@ -72,4 +72,4 @@ layout: single
 
 
 ## 📥 Download My Resume
-[Download](/BDsProjects-Portfolio/assets/files/resume.pdf){: .btn .btn--primary}
+[Download](/BDsProjects-Portfolio/assets/files/Resume.pdf){: .btn .btn--primary}
