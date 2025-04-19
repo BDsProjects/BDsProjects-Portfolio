@@ -7,22 +7,22 @@
 // // Custom grid layout
 // .grid__item {
 //   margin-bottom: 2em;
-  
+//   
 //   .archive__item-title {
 //     margin-top: 0.5em;
 //     font-size: 1.1em;
 //   }
-  
+//   
 //   .archive__item-excerpt {
 //     font-size: 0.9em;
 //     margin-top: 0.5em;
 //   }
-  
+//   
 //   .archive__item-teaser {
 //     position: relative;
 //     overflow: hidden;
 //     padding-bottom: 56.25%; // 16:9 aspect ratio
-    
+//     
 //     img {
 //       position: absolute;
 //       width: 100%;
@@ -38,19 +38,37 @@
 //   padding: 1em;
 //   border-radius: 4px;
 //   margin-bottom: 2em;
-  
+//   
 //   dl {
 //     display: grid;
 //     grid-template-columns: 120px 1fr;
 //     gap: 0.5em;
 //     margin: 0;
-    
+//     
 //     dt {
 //       font-weight: bold;
 //     }
-    
+//     
 //     dd {
 //       margin: 0;
 //     }
 //   }
 // }
+
+// -------------------------------------------------------------
+// NEW: Force all project cards to align at the top in grid view
+// This targets collection pages with `classes: ["wide","align-items-start"]`
+.collection.grid.align-items-start .archive-grid {
+    /* For flex-based grids */
+    align-items: flex-start;
+  }
+  
+  .collection.grid.align-items-start .archive-grid {
+    /* For CSS grid-based layouts */
+    align-items: start;
+  }
+  
+  // Also ensure any inline-block items sit at the top
+  .collection.grid.align-items-start .grid__item {
+    vertical-align: top;
+  }
