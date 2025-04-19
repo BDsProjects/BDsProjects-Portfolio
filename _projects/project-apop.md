@@ -25,11 +25,11 @@ Due to data loss from prior years, we started nearly from scratch with turbine o
 For the calculations, I completed the non-ideal cycle analysis for the P100-RX using its datasheet, its operation output, and measured forces from our 5 axis sensor. I then used efficiencies typically used in UD's AEE 513, Air Breathing Propulsion class. I used this model to aid in the thrust reverser performance calculations as well, which were done using the conservation of momentum for flow hitting and being redirected by angled plates. 
 
 I performed CFD analysis on the thrust reverser designs, along with the stock nozzles for performance comparisons. I used SolidWorks as it was the tool I had experience with, and the time needed to run the simulations. These analyses were used to assist in determining which design(s) would be best to move into the manufacturing and testing stage with. The manual claculations were used as the basis and in the end, we chose a pneumatically actuated clamshell design. In the future I would like to further develop my skills with CFD in Ansys, or Converge CFD. Using SolidWorks, I also created some models of the P100-RX components. Included below is a picture of the secondary turbine shaft and nozzle. 
-![alt text](assets\images\SecondaryShaft.png "Secondary Shaft")
+![alt text](../assets/images/SecondaryShaft.png "Secondary Shaft")
 
 loading nozzle image test
 
-  ![nozzle](/assets/images/nozzle.png)
+![nozzle](../assets/images/nozzle.png)
 
 
 ## Non-Technical Details
